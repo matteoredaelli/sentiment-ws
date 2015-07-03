@@ -9,8 +9,8 @@ https://github.com/livioivil/TextWiller
 
 ```R
 library(devtools)
-install_github("TextWiller", "livioivil")
-library(TextWiller)
+install_github("livioivil/TextWiller")
+install_github("trestletech/rapier")
 ```
 
 ## Usage
