@@ -24,3 +24,6 @@ Open a browser and test it with
 
  http://localhost:8000/sent?text=mi%20piace%20leggere
 
+and you will receive the answer
+
+  {"text":"piace leggere", "value":1}
