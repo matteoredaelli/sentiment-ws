@@ -1,9 +1,9 @@
 # sentiment-ws
 Sentiment analysis via REST
 
-COPYRIGHT (c) 2016  - matteo DOT redaelli AT gmail DOT com
+COPYRIGHT (c) 2015  - matteo DOT redaelli AT gmail DOT com
 
-== Requirements
+## Requirements
 
 https://github.com/livioivil/TextWiller
 
@@ -13,7 +13,7 @@ install_github("TextWiller", "livioivil")
 library(TextWiller)
 ```
 
-== Usage
+## Usage
 
 git clone https://github.com/matteoredaelli/sentiment-ws
 
